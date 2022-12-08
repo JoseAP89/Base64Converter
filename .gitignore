@@ -1,1 +1,4 @@
 /target
+# executable
+base64Converter
+Cargo.lock
